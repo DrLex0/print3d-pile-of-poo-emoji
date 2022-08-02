@@ -24,24 +24,31 @@ If you don't have a multi-material printer and want to manually print and assemb
 
 A Blender file with the non-merged parts is also available for easier remixing.
 
-Printing should be easy, no rafts or supports required. You may need to force infill across the entire model to avoid that gaps occur at the seams between the ‘sausage’ due to shrinking of the material (especially with ABS).
-
 I did my best to remove self-intersecting volumes, MeshLab still shows a few intersecting faces but it shouldn't cause any problems with any decent slicer.
 
 If you really like this, you can [show your appreciation with a small donation](https://www.dr-lex.be/about/#contact).
 
-**Note:** this model is released under a *Creative Commons - Attribution* license. The details can be [found here](http://creativecommons.org/licenses/by/4.0/) but in a nutshell it means you are pretty much free to do anything with it including selling prints, **if** you comply with the following condition:
-* **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you sell the model, and inside the packaging of the actual physical product. A link to this page or even just “[Pile of Poo model by Dr. Lex](https://github.com/DrLex0/print3D-pile-of-poo-emoji)” suffices, as long as there is no possibility that anyone could believe you are the author of the model because you are selling it. *This is a very, very easy requirement* that doesn't incur any extra cost except a minute of your time. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
-
 
 ## How I printed this
 
-I printed at 0.2mm layers, 15% infill, without any rafts or supports. The print shown in the photos is ABS at 75% size.
+Printing should be easy, no rafts or supports required. For the more challenging filaments, you may need to force infill across the entire model to avoid that gaps occur at the seams between the ‘sausage’ due to shrinking of the material (especially with ABS).
 
-If you have trouble printing the mouth, you could enable supports for only that region.
+I printed at 0.2 mm layers, 15% infill, without any rafts or supports. The print shown in the photos is ABS at 75% size.
+
+If you have trouble printing the mouth, you could enable supports for only that region, but a good cooling fan should make supports unnecessary.
+
+
+## License clarification: read this before contacting me
+
+This model is released under a *Creative Commons - Attribution* license. The details can be [found here](http://creativecommons.org/licenses/by/4.0/), but my interpretation of this license is that you are pretty much free to do anything with this model including selling prints, **if** you comply with the following condition:
+
+* **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you publish or sell the model, and inside the packaging of any physical product that includes a print of this model or an obvious derivative. A link to this page or even just “[Pile of Poo model by Dr. Lex](https://github.com/DrLex0/print3D-pile-of-poo-emoji)” suffices, as long as there is no possibility that anyone could believe you are the author of the model because you are selling it or publishing it somewhere. *This is a very, very easy requirement* that doesn't incur any extra cost except a minute of your time. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
 
 
 ## Updates
+
+### 2016/07/20
+First published on Thingiverse.
 
 ### 2017/06/11
 Added multi-material files for printing the pupils in a third color on printers that can print with 3 materials.
@@ -51,6 +58,9 @@ Added high poly count models for those wanting to print highly detailed poop.
 
 ### 2018/06/12
 Updated the hiPoly models to have a better footprint to avoid warping around the mouth area, and some polygon pushing to encourage slicers to place seams inside the spiral crease.
+
+### 2020/04/01
+Migrated to GitHub.
 
 
 ## Tags

@@ -34,5 +34,10 @@ Print all parts in the desired colors, then push the pupils into the eyes from t
 No supports needed. The models in the photos were printed at 80% size with 0.15 mm layers. If you have a hard time pushing the pupils into the eyes, scale them down to 99% or a bit less. It may also help to sand their edges if your first layer is wider due to being squashed.
 
 
+# Licensing
+
+[See the main README of this repository](https://github.com/DrLex0/print3d-pile-of-poo-emoji) for the details.
+
+
 ## Tags
 `crap`, `EMOJI`, `internet`, `Multicolor`, `poo`, `poop`, `Poop_emoji`, `shit`, `smile`, `smiley`, `U+1F4A9`
