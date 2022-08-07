@@ -18,6 +18,8 @@ Models are included for either:
 2. **Dual material printers:** `TurdEmoji-dual-or-multi-mat1` + `TurdEmoji-dual-mat2`
 3. **Multi-material printers:** `TurdEmoji-dual-or-multi-mat1` + `TurdEmoji-multi-mat2` + `TurdEmoji-multi-mat3`
 
+The ‘Filled’ variants do not have the inside spiral, and may print faster and with less material when using a low infill value. They are probably the most convenient for making remixes.
+
 If you print the single model or the two-material model, the inside of the eyes can be coloured with a sharp permanent marker, which is easier than trying to paint them.
 
 If you don't have a multi-material printer and want to manually print and assemble parts printed in different colors, look in the **parts-for-assembly** folder.
@@ -61,6 +63,9 @@ Updated the hiPoly models to have a better footprint to avoid warping around the
 
 ### 2020/04/01
 Migrated to GitHub.
+
+### 2022/08/07
+Added ‘filled’ variants and updated Blender file to allow generating all STLs from it. (The default produces the single-material model. You will have to figure out the right combination of Boolean operators to produce the other variants.)
 
 
 ## Tags
