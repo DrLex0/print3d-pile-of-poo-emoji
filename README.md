@@ -44,7 +44,9 @@ If you have trouble printing the mouth, you could enable supports for only that 
 
 This model is released under a *Creative Commons - Attribution* license. The details can be [found here](http://creativecommons.org/licenses/by/4.0/), but my interpretation of this license is that you are pretty much free to do anything with this model including selling prints, **if** you comply with the following condition:
 
-* **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you publish or sell the model, and inside the packaging of any physical product that includes a print of this model or an obvious derivative. A link to this page or even just “[Pile of Poo model by Dr. Lex](https://github.com/DrLex0/print3D-pile-of-poo-emoji)” suffices, as long as there is no possibility that anyone could believe you are the author of the model because you are selling it or publishing it somewhere. *This is a very, very easy requirement* that doesn't incur any extra cost except a minute of your time. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
+* **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you publish or sell the model, and inside the packaging of any physical product that includes a print of this model or an obvious derivative. A link to this page or even just “[Pile of Poo model by Dr. Lex](https://github.com/DrLex0/print3D-pile-of-poo-emoji)” suffices, as long as there is no possibility that anyone could believe you are the author of the model because you are selling it or publishing it somewhere.<br>
+  As for paper print-outs, simplest is to use the ready-to-print attribution cards in PDF format that can be found in this repository.<br>
+  *This is a very, very easy requirement* that doesn't incur any extra cost except a minute of your time. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
 
 
 ## Updates
